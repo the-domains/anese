@@ -1,0 +1,14 @@
+layout_spectrum: 0.2099494
+typography_spectrum: 0.7023609
+color:
+  lightness: 0.0851602
+  brandStrength: 0.6861473
+  saturation: 1
+  rhythmicContrast: 0
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: anese
